@@ -16,7 +16,7 @@ This project is from Binghamton University's CS 373, Formal Language & Automata 
 
 # Files
 
-1. `ternarny.jff` is the JFLAP file with the Turing machine.
+1. `ternary.jff` is the JFLAP file with the Turing machine.
 
 2. `generate_test.py` is a Python script to generate an input of two random ternargy numbers of length 100-120 in the form `number1#number2`, stored in `test_cases.txt`, and the expected sum in `expected_cases.txt`.
 
